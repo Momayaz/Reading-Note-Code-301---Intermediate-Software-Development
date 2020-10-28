@@ -35,4 +35,4 @@ The idea of reduce is to receive a function and a collection, and return a value
 
 Refactoring Javascript for performance
 Strategies
-Here are some straightforward to implement methods that can lead to easier to read code. There are no absolutes when it comes to clean code — there's always an edge case! 1. Return early from functions: 1. Cache variables so functions can be read like sentences: 1. Check for Web APIs before implementing your own ## ## functionality: 1. It's important to get your code right the first time because in many businesses there isn't much value in refactoring.
+Here are some straightforward to implement methods that can lead to easier to read code. There are no absolutes when it comes to clean code — there's always an edge case! 1. Return early from functions: 1. Cache variables so functions can be read like sentences: 1. Check for Web APIs before implementing your own ### functionality: 1. It's important to get your code right the first time because in many businesses there isn't much value in refactoring.
