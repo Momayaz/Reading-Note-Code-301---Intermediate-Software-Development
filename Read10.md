@@ -58,4 +58,4 @@ ____________
 Handling errors
 An alternative it’s to encapsulate our problematic function code with a try…catch which would make an error be thrown but this time, not “uncaught” so we can send it to a error logging to be checked later and send a fallback to the function so that our code continues without problems.
 
-**READ10**
+**READ10**$$&$$
